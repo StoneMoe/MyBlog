@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on StoneMoe&#39;s Blog</title>
+    <link>https://stone.moe/categories/</link>
+    <description>Recent content in Categories on StoneMoe&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 04 Jan 2021 19:18:56 +0000</lastBuildDate><atom:link href="https://stone.moe/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>默认分类</title>
+      <link>https://stone.moe/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/</link>
+      <pubDate>Mon, 04 Jan 2021 19:18:56 +0000</pubDate>
+      
+      <guid>https://stone.moe/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教程</title>
+      <link>https://stone.moe/categories/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Sun, 03 May 2020 13:53:00 +0000</pubDate>
+      
+      <guid>https://stone.moe/categories/%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>心情</title>
+      <link>https://stone.moe/categories/%E5%BF%83%E6%83%85/</link>
+      <pubDate>Sat, 02 May 2020 13:01:51 +0000</pubDate>
+      
+      <guid>https://stone.moe/categories/%E5%BF%83%E6%83%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>安全</title>
+      <link>https://stone.moe/categories/%E5%AE%89%E5%85%A8/</link>
+      <pubDate>Sat, 18 Apr 2020 04:42:00 +0000</pubDate>
+      
+      <guid>https://stone.moe/categories/%E5%AE%89%E5%85%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>创造</title>
+      <link>https://stone.moe/categories/%E5%88%9B%E9%80%A0/</link>
+      <pubDate>Sat, 22 Feb 2020 23:44:00 +0000</pubDate>
+      
+      <guid>https://stone.moe/categories/%E5%88%9B%E9%80%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开发</title>
+      <link>https://stone.moe/categories/%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Tue, 22 Oct 2019 16:22:00 +0000</pubDate>
+      
+      <guid>https://stone.moe/categories/%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>逆向开发</title>
+      <link>https://stone.moe/categories/%E9%80%86%E5%90%91%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Wed, 26 Jun 2019 21:48:00 +0000</pubDate>
+      
+      <guid>https://stone.moe/categories/%E9%80%86%E5%90%91%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

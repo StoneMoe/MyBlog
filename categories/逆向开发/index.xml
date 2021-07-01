@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>逆向开发 on StoneMoe&#39;s Blog</title>
+    <link>https://stone.moe/categories/%E9%80%86%E5%90%91%E5%BC%80%E5%8F%91/</link>
+    <description>Recent content in 逆向开发 on StoneMoe&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 26 Jun 2019 21:48:00 +0000</lastBuildDate><atom:link href="https://stone.moe/categories/%E9%80%86%E5%90%91%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>毫无保护的 Muse 小姐姐 - Muse Dash 游戏修改实战</title>
+      <link>https://stone.moe/posts/modify-my-muse-dash-score/</link>
+      <pubDate>Wed, 26 Jun 2019 21:48:00 +0000</pubDate>
+      
+      <guid>https://stone.moe/posts/modify-my-muse-dash-score/</guid>
+      <description>&lt;p&gt;遇到喜欢的音游当然是破解它啦（不&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
